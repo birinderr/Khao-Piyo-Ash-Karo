@@ -11,7 +11,7 @@ const Navbar = () => {
             <div>
                 <a href="#" className='flex items-center gap-2 text-2xl sm:text-2xl font-bold'>
                     <img src={Logo} alt="logo" className='w-10' />
-                    Khao Piyo Ash Karo
+                    KPAK
                 </a>
             </div>
             <div className='flex items-center gap-4'>
